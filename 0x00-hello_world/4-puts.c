@@ -1,12 +1,11 @@
 #include <stdio.h>
 /**
- * main-It serves as the entry point for the program
-*
-* Return: By default returns zero if no errors otherwise returns non-zero value.
-*/
+ * main- entry point for the program
+ *
+ * Return: 0 on default, if error returns non-zero value
+ */
 int main(void)
 {
-	puts("\"Programming is like building a multilingual
-			puzzle");
+	puts("\"Programming is like building a multilingual puzzle");
 	return (0);
 }
